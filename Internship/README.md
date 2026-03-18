@@ -1,0 +1,2 @@
+This project focuses on performing Exploratory Data Analysis (EDA) on an online retail dataset to understand customer behavior, sales trends, and business performance.
+The dataset contains transactional information such as invoice numbers, product details, quantities, prices, customer IDs, and countries.This EDA project demonstrates how raw retail data can be transformed into meaningful insights using Python and visualization techniques. It helps businesses make informed decisions and improves overall strategy.
